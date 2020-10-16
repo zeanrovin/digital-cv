@@ -2,7 +2,7 @@
 ### 12600 4th Ave. W, 8C, Everett, Washington 98204 | H: 4252879361 | zeanrovinb@gmail.com
 
 ****
-### Work Experience
+### Work Experience :briefcase:
 
 #### Associate Software Engineer @ [Finastra](https://www.finastra.com/) _(October 2018 to September 2020)_
 
@@ -42,7 +42,7 @@ _**Technologies used:**_ PHP, HTML, CSS, Javascript, GIT
 
 ****
 
-### Education and Training
+### Education and Training :mortar_board:
 
 #### High-Potential Entry Level Program(HPEL)
 ##### Finastra (Philippines)(2018) 
@@ -53,7 +53,7 @@ _**Technologies used:**_ PHP, HTML, CSS, Javascript, GIT
 
 ****
 
-### Certificates
+### Certificates :bookmark:
 
 #### Learning Python
 ##### LinkedIn Learning
@@ -69,7 +69,7 @@ Issued: October 2016 - No Expiration Date
 
 ****
 
-### Personal Background
+### Personal Background  :newspaper:
 
 * Fluent in English and Filipino. 
 * Experienced in Java, RPG, AS400, SQL, HTML, CSS, JavaScript, GIT and SVN. 
