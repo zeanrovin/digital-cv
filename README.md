@@ -1,5 +1,5 @@
 ## ZEAN ROVIN BALITA
-##### 12600 4th Ave. W, 8C, Everett, Washington 98204 | H: 4252879361 | zeanrovinb@gmail.com
+#### 12600 4th Ave. W, 8C, Everett, Washington 98204 | H: 4252879361 | zeanrovinb@gmail.com
 
 ****
 ### Work Experience
@@ -73,8 +73,8 @@ Specializes in Service Management
 
 * Fluent in English and Filipino. 
 * Experienced in Java, RPG, AS400, SQL, HTML, CSS, JavaScript, GIT and SVN. 
-* Proficient in Eclipse, Visual Studio, MS Office, Google Apps, Adobe Photoshop and Sony Vegas Video Editing.
-* Knows basic PHP, Python C# and Data Science.  
+* Knows basic PHP, Python C# and Data Science. 
+* Proficient in Eclipse, Visual Studio, MS Office, Google Apps, Adobe Photoshop and Sony Vegas Video Editing. 
 * Student Leader in College Organizations – Executive Officer for consecutive years. 
 * Eager to continually learn and strive for excellence in a workplace. 
 * I’m a team player who can multitask and be proactive in meeting deadlines.
