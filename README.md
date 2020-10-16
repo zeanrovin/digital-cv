@@ -63,7 +63,7 @@ Issued: October 2020 - No Expiration Date
 ##### PhilNits
 Issued: June 2017 - No Expiration Date
 
-#### MTA Database Fundamentals 
+#### Microsoft Technology Associate: Database Fundamentals 
 #####  Microsoft
 Issued: October 2016 - No Expiration Date
 
