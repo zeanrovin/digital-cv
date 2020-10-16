@@ -14,6 +14,8 @@
 * Experience with JIRA and Confluence
 * Became Subject Matter Expert in some Swift Messages (MT320, MT940, MT950)
 
+_*Technologies used:*_ RPG, AS400, CLLE, JAVA, XML, GIT, SVN, JIRA, Confluence, HTML, CSS, Javascript
+
 *Achievements:* L3 Heavy Hitter for multiple months, most number of cases resolved and most story points in FT domain for FY 2019 and Q1 of FY 2020.
 
 #### Accounting Representative @ [Qualstar Credit Union] (https://www.qualstarcu.com/) _(March 2018 to August 2018)_
@@ -32,8 +34,33 @@
 * Responsible in Conducting Website Quality Assurance procedures and Software Acceptance Test 
 *	Front-end developer for an online recruitment system 
 
+_*Technologies used:*_ PHP, HTML, CSS, Javascript, GIT
+
 #### Intern @ [Accenture] (https://www.accenture.com/us-en) _(June 2016 to August 2016)_
 *	Had an experience on SAP configuration in Materials Management Module 
 *	Making Proof of Testing Document in every ticket resolved.
 
+****
+
+### Education and Training
+
+#### High-Potential Entry Level Program(HPEL)
+##### Finastra (Philippines)(2018) 
+Java and AS400 RPG Training 
+
+#### Bachelor of Science, Information Systems 
+##### University of Santo Tomas(2013-2017)
+Specializes in Service Management
+
+****
+
+### Personal Background
+
+Fluent in English and Filipino. 
+Experienced in Java, RPG, AS400, SQL, HTML, CSS, JavaScript, GIT and SVN. 
+Proficient in Eclipse, Visual Studio, MS Office, Google Apps, Adobe Photoshop and Sony Vegas Video Editing.
+Knows basic PHP, Python C# and Data Science.  
+Very active in College Organizations – Executive Officer for consecutive years. 
+Eager to continually learn and strive for excellence in a workplace. 
+I’m a team player who can multitask and be proactive in meeting deadlines.
 
