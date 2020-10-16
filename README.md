@@ -57,15 +57,16 @@ _**Technologies used:**_ PHP, HTML, CSS, Javascript, GIT
 
 #### Learning Python
 ##### LinkedIn Learning
-###### Issued: October 2020 - No Expiration Date
+Issued: October 2020 - No Expiration Date
 
 #### Information Technology Passport (IP) Certified 
-##### 2017 PhilNits
-###### Issued: June 2018 - No Expiration Date
+##### PhilNits
+Issued: June 2017 - No Expiration Date
 
 #### MTA Database Fundamentals 
 #####  Microsoft
-###### Issued: October 2016 - No Expiration Date
+Issued: October 2016 - No Expiration Date
+
 ****
 
 ### Personal Background
