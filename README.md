@@ -14,9 +14,9 @@
 * Experience with JIRA and Confluence
 * Became Subject Matter Expert in some Swift Messages (MT320, MT940, MT950)
 
-_*Technologies used:*_ RPG, AS400, CLLE, JAVA, XML, GIT, SVN, JIRA, Confluence, HTML, CSS, Javascript
+_**Technologies used:**_ RPG, AS400, CLLE, JAVA, XML, GIT, SVN, JIRA, Confluence, HTML, CSS, Javascript
 
-*Achievements:* L3 Heavy Hitter for multiple months, most number of cases resolved and most story points in FT domain for FY 2019 and Q1 of FY 2020.
+**Achievements:** L3 Heavy Hitter for multiple months, most number of cases resolved and most story points in FT domain for FY 2019 and Q1 of FY 2020.
 
 #### Accounting Representative @ [Qualstar Credit Union](https://www.qualstarcu.com/) _(March 2018 to August 2018)_
 *	Data entry using Episys-Symitar tools to enter data related process payment cheques under the accounts receivable 
@@ -34,7 +34,7 @@ _*Technologies used:*_ RPG, AS400, CLLE, JAVA, XML, GIT, SVN, JIRA, Confluence, 
 * Responsible in Conducting Website Quality Assurance procedures and Software Acceptance Test 
 *	Front-end developer for an online recruitment system 
 
-_*Technologies used:*_ PHP, HTML, CSS, Javascript, GIT
+_**Technologies used:**_ PHP, HTML, CSS, Javascript, GIT
 
 #### Intern @ [Accenture](https://www.accenture.com/us-en) _(June 2016 to August 2016)_
 *	Had an experience on SAP configuration in Materials Management Module 
