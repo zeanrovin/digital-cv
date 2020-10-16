@@ -1,5 +1,5 @@
 ## ZEAN ROVIN BALITA
-#### 12600 4th Ave. W, 8C, Everett, Washington 98204 | H: 4252879361 | zeanrovinb@gmail.com
+### 12600 4th Ave. W, 8C, Everett, Washington 98204 | H: 4252879361 | zeanrovinb@gmail.com
 
 ****
 ### Work Experience
@@ -46,11 +46,10 @@ _*Technologies used:*_ PHP, HTML, CSS, Javascript, GIT
 
 #### High-Potential Entry Level Program(HPEL)
 ##### Finastra (Philippines)(2018) 
-Java and AS400 RPG Training 
 
 #### Bachelor of Science, Information Systems 
 ##### University of Santo Tomas(2013-2017)
-Specializes in Service Management
+
 
 ****
 
