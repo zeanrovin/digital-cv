@@ -44,8 +44,11 @@ _**Technologies used:**_ PHP, HTML, CSS, Javascript, GIT
 
 ### Education and Training 🎓
 
+#### Nano-Degree in Data Science
+##### Udacity(2021)
+
 #### High-Potential Entry Level Program(HPEL)
-##### Finastra (Philippines)(2018) 
+##### Finastra(Philippines)(2018) 
 
 #### Bachelor of Science, Information Systems 
 ##### University of Santo Tomas(2013-2017)
