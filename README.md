@@ -4,6 +4,26 @@
 ****
 ### Work Experience 💼
 
+#### Software Development Engineer in Test and Software Engineer in CI/CD @ [Deloitte Consulting](https://www2.deloitte.com/us/en.html) _(May 2022 to Present)_
+
+* Implemented a continuous testing pipeline using Selenium and Jenkins, enhancing test execution efficiency across containerized environments, and enabling earlier bug detection during development cycles.
+* Automated and maintained over 50 critical test cases focused on core features, uncovering high-priority bugs and directly contributing to the stability and reliability of Deloitte’s internal products.
+* Collaborated with cross-functional teams to design test plans and ensure comprehensive coverage during feature handovers.
+* Created and maintained client-facing documentation and changelogs, improving release transparency and stakeholder communication across 100+ weekly deployments.
+* Promoted Continuous Integration and Continuous Development using Gitlab, Docker, AWS, Terraform,
+Kubernetes etc. to develop and maintain product’s feature and performance.
+* Created various environments that are hosted in a Docker container or in AWS EC2.
+* Developed a tool to streamline data import and export, enabling seamless transfers between environments with improved efficiency and reliability.
+* Develop AWS Lambda functions using Python for various use cases such as data processing, real-time file processing, and event-driven applications.
+
+#### Software Test Engineer @ [Employment Security Department](https://esd.wa.gov) _(March 2021 to May 2022)_
+
+* Analyzed, designed, developed, and maintained applications while ensuring robust test automation
+solutions, including writing code, conducting code reviews, and troubleshooting mission-critical application
+failures.
+* Automated processes using C# to enhance software quality and reliability while managing projects and collaborating with stakeholders to align testing strategies with business goals.
+* Led technical deployment of the Google Chatbot, providing comprehensive testing data and ensuring 95%+ test coverage.
+
 #### Associate Software Engineer @ [Finastra](https://www.finastra.com/) _(October 2018 to September 2020)_
 
 * Tests, debugs, analyzes and fixes application problems/issues.
