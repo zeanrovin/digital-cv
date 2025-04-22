@@ -18,6 +18,8 @@ Kubernetes etc. to develop and maintain product’s feature and performance.
 * Developed a tool to streamline data import and export, enabling seamless transfers between environments with improved efficiency and reliability.
 * Develop AWS Lambda functions using Python for various use cases such as data processing, real-time file processing, and event-driven applications.
 
+_**Technologies used:**_ Java, Jenkins, AWS, Terraform, Docker, JIRA, Gitlab, Gitlab CI/CD, Selenium, Changelog Documentation, Cloud Computing, Consulting, Product Management
+
 #### Software Test Engineer @ [Employment Security Department](https://esd.wa.gov) _(March 2021 to May 2022)_
 
 * Analyzed, designed, developed, and maintained applications while ensuring robust test automation
@@ -25,6 +27,8 @@ solutions, including writing code, conducting code reviews, and troubleshooting 
 failures.
 * Automated processes using C# to enhance software quality and reliability while managing projects and collaborating with stakeholders to align testing strategies with business goals.
 * Led technical deployment of the Google Chatbot, providing comprehensive testing data and ensuring 95%+ test coverage.
+
+_**Technologies used:**_ C#, Selenium, End-to-end Testing, Automation, Project Management
 
 #### Associate Software Engineer @ [Finastra](https://www.finastra.com/) _(October 2018 to September 2020)_
 
