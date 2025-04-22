@@ -1,6 +1,8 @@
 ## ZEAN ROVIN BALITA
 ### 12600 4th Ave. W, 8C, Everett, Washington 98204 | H: 4252879361 | zeanrovinb@gmail.com
 
+Versatile Software Engineer with over 6 years of experience building and testing scalable, cloud-hosted applications with a strong emphasis on user experience, quality, and performance. Skilled in developing testable UIs, implementing CI/CD pipelines, and collaborating across teams to deliver polished, client-facing solutions in fast-paced consulting environments.
+
 ****
 ### Work Experience 💼
 
