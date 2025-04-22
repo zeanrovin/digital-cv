@@ -83,6 +83,11 @@ _**Technologies used:**_ PHP, HTML, CSS, Javascript, GIT
 ****
 
 ### Certificates 🔖 
+#### ISTQB Foundation Level
+##### American Software Testing Qualifications Board (2024)
+
+#### AWS Foundational Cloud Practioner
+##### Amazon Web Services(2023)
 
 #### Learning Python
 ##### LinkedIn Learning
@@ -95,16 +100,3 @@ Issued: June 2017 - No Expiration Date
 #### Microsoft Technology Associate: Database Fundamentals 
 #####  Microsoft
 Issued: October 2016 - No Expiration Date
-
-****
-
-### Personal Background 📰
-
-* Fluent in English and Filipino. 
-* Experienced in Java, RPG, AS400, SQL, HTML, CSS, JavaScript, GIT and SVN. 
-* Knows basic PHP, Python C# and Data Science. 
-* Proficient in Eclipse, Visual Studio, MS Office, Google Apps, Adobe Photoshop and Sony Vegas Video Editing. 
-* Student Leader in College Organizations – Executive Officer for consecutive years. 
-* Eager to continually learn and strive for excellence in a workplace. 
-* I’m a team player who can multitask and be proactive in meeting deadlines.
-
